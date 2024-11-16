@@ -1,6 +1,12 @@
 Hi ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/llimonix/llimonix/assets/58168234/faa0d2eb-c6b4-4cea-a8df-89dcd7151d58) My name is Vadim Naumenko
 ======================================================================================================================================
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/llimonix/llimonix/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/llimonix/llimonix/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/llimonix/llimonix/refs/heads/output/github-contribution-grid-snake.svg" />
+</picture>
+
 Python Developer
 ----------------
 
